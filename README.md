@@ -18,10 +18,10 @@ Here are some ideas to get you started:
 
 ### Connect with me:
 
-[<img align="left" alt="birajsilwal | LinkedIn" width="22px" src="https://img.icons8.com/fluent/512/000000/linkedin.png" />](https://www.linkedin.com/in/birajsilwal/)
-[<img align="left" alt="birajsilwal | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Birajhmbspeaks)
-[<img align="left" alt="birajsilwal | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/birajsilwal/)
-[<img align="left" alt="birajsilwal | GMail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/gmail.svg" />](mailto:birajsilwal.ai@gmail.com?subject=Hello)
+[<img align="left" alt="birajsilwal | LinkedIn" width="26px" src="https://img.icons8.com/fluent/512/000000/linkedin.png" />](https://www.linkedin.com/in/birajsilwal/)
+[<img align="left" alt="birajsilwal | Twitter" width="26px" src="https://img.icons8.com/fluent/512/000000/twitter.png" />](https://twitter.com/Birajhmbspeaks)
+[<img align="left" alt="birajsilwal | Instagram" width="26px" src="https://img.icons8.com/fluent/512/000000/instagram-new.png" />](https://www.instagram.com/birajsilwal/)
+[<img align="left" alt="birajsilwal | GMail" width="26px" src="https://img.icons8.com/fluent/512/000000/gmail--v2.png" />](mailto:birajsilwal.ai@gmail.com?subject=Hello)
 
 <br />
 
