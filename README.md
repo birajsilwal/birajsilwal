@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi! I'm a student studying computer science and business at [University of New Mexico](https://www.unm.edu/)
+## Hi! I'm a student studying Computer Science and Economics at [University of New Mexico](https://www.unm.edu/)
 
 ### Connect with me:
 
