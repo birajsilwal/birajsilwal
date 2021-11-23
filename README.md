@@ -5,7 +5,7 @@
 ## I'm a senior studying Computer Science and Economics at University of New Mexico
 
 
-- 👨‍💻 Learn more about me at [https://www.birajsilwal.com](birajsilwal.com/)
+- 👨‍💻 Learn more about me at <a href="https://www.birajsilwal.com" target="_blank">birajsilwal.com</a>
 
 <!--
 **birajsilwal/birajsilwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
