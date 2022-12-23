@@ -1,8 +1,8 @@
-<h1> Hi 👋, I'm Biraj (pronounced: B raj)</h1>
+<h1> Hi 👋, I'm Biraj</h1>
 
 
  
-## I'm a senior studying Computer Science and Economics at University of New Mexico
+## Experienced Software Engineer skilled in Python, Go, Java, React, and Agile Methodologies. Strong engineering professional with a Bachelor of Science (B.S.) focused on Computer Science and a minor in Economics.
 
 
 - 👨‍💻 Learn more about me at <a href="https://www.birajsilwal.com" target="_blank">birajsilwal.com</a>
@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 -->
 
 <!-- - 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning **React Native, OpenCV, Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Deep Learning**
 - 🎯 I'm Working on Improving my **Problem Solving skills.**
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about **Java, App development, React, Vue -->
 - 📫 How to reach me: **Please see the connect with me section.**
-- ⚡ Fun fact: **I play violin...hardly 😅**
+<!-- - ⚡ Fun fact: **I play violin...hardly 😅** -->
 
 ### Connect with me:
 
